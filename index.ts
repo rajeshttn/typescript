@@ -2,7 +2,6 @@ var message:string = "hello world";
 
 var num:number = 10;
 
-
 class Greeting { 
     greet():void { 
        console.log("Hello World!!!") 
@@ -27,14 +26,3 @@ var num = 2;    // data type inferred as  number
 console.log("value of num "+num); 
 // num = "12";
 console.log(num);
-
-
-// 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
-
-
-// /Users/rajesh/projects/growth/learn-typescript/index.ts
-
-
-
-
-
